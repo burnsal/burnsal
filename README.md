@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @burnsal
 - 👀 Research Associate : USDA VS APHIS CEAH
-- 👀 Developer and maintainer: [CameraTrapDetectoR](https://github.com/CameraTrapDetectoR)
+- 👀 Developer and maintainer : [CameraTrapDetectoR](https://github.com/CameraTrapDetectoR)
 - 🌱 Masters in Applied Statistics : Colorado State University.
 - 💞️ I’m looking to collaborate on projects for the public good.
 - 📫 amiraburns@gmail.com
