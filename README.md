@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @burnsal
-- 👀 Research Associate : USDA VS APHIS CEAH
+- 👀 ORISE ARS-SCINet Fellow on Camera Trap Data
 - 👀 Developer and maintainer : [CameraTrapDetectoR](https://github.com/CameraTrapDetectoR)
 - 🌱 Masters in Applied Statistics : Colorado State University.
 - 💞️ I’m looking to collaborate on projects for the public good.
